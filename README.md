@@ -8,4 +8,5 @@
 So we have the following recurrence 
 <br>
 <br>T(n)≤T(n/7)+T(5n/7)+cn
+<br>
 <br>In this case, n/7 + 5n/7 = 6n/7, 6/7 < 1, so it can yield a linear-time algorithm.
